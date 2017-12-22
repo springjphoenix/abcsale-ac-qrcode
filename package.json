@@ -1,0 +1,22 @@
+{
+  "name": "abcsale-ac-qrcode",
+  "version": "1.0.0",
+  "description": "qrcode scanner for our great App!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native-camera": "^0.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/springjphoenix/abcsale-ac-qrcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/springjphoenix/abcsale-ac-qrcode/issues"
+  },
+  "homepage": "https://github.com/springjphoenix/abcsale-ac-qrcode#readme"
+}
